@@ -10,7 +10,9 @@ Matplotlib
 
 ## Steps for Execution
 1. Clone the folder from the git repository.
+
 2. Go to the folder location in the terminal.
+
 3. Run the python file with the following command :
 
  python prateek_verma.py 
@@ -20,11 +22,17 @@ Matplotlib
 Example Inputs:
 
 Initial position (x y): 20 20
+
 Initial Orientation (in degrees): 0
+
 Target position (x y): 200 200
+
 Goal Orientation (in degrees): 0
+
 Step size: 10
+
 Robot Radius: 10
+
 Clearance: 5
 
 (Please be patient as it may take a while to visualize the output)
